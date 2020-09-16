@@ -6,3 +6,4 @@ Coleccion de estructuras de datos implementadas en C++
   * Conocimiento acerca de la implementación de estructuras de datos
   * Manejo de memoria dinámica
   * Lenguaje C++
+  * Manejo de punteros
