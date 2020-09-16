@@ -1,4 +1,4 @@
-# Estructuras-de-Datos
+# Estructuras de Datos
 Coleccion de estructuras de datos implementadas en C++
   * Lista simplemente enlazada
   
