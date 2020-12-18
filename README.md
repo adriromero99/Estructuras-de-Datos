@@ -1,6 +1,8 @@
 # Estructuras de Datos
 Coleccion de estructuras de datos implementadas en C++
   * Lista simplemente enlazada
+  * Pila
+  * Cola
   
 # Habilidades y destrezas adquiridas
   * Conocimiento acerca de la implementación de estructuras de datos
